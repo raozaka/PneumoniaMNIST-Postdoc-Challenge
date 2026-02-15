@@ -1,0 +1,11 @@
+tensorflow==2.15.0
+torch
+transformers
+accelerate
+sentencepiece
+medmnist
+pillow==10.4.0
+pandas==2.2.2
+scikit-learn
+matplotlib
+numpy
