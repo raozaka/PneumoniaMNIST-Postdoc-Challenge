@@ -10,13 +10,13 @@ demonstrates complementary strengths between discriminative and generative appro
 ## System Overview
 
 Chest X-ray
-      ↓
-   CNN Classifier  → Prediction (Normal / Pneumonia)
-      ↓
+       →
+CNN Classifier  → Prediction (Normal / Pneumonia)
+      →
 Misclassified Samples
-      ↓
+       →
 Visual Language Model (VLM)
-      ↓
+       →
 Generated Medical Report
 
 
