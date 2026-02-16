@@ -8,3 +8,16 @@ The project implements an end-to-end AI prototype system using PneumoniaMNIST (M
 - CNN-based pneumonia classification
 - Visual Language Model (VLM) medical report generation
 - Qualitative cross-model analysis
+
+## Results Summary
+
+### Task 1
+- Accuracy: 0.86
+- AUC: 0.99
+- Sensitivity: 0.97
+- Specificity: 0.68
+
+### Task 2
+- 3 prompting strategies evaluated
+- CNN misclassified cases analyzed
+- Qualitative alignment assessment performed
