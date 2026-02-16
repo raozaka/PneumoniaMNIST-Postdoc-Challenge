@@ -1,4 +1,25 @@
-# 7-Day Postdoctoral Technical Challenge  
+# 7-Day Postdoctoral Technical Challenge 
+
+## Executive Summary
+
+This project implements a reproducible AI pipeline for medical imaging using PneumoniaMNIST. 
+A lightweight CNN achieves strong classification performance (AUC 0.95), and a Visual 
+Language Model (VLM) generates structured radiology-style reports. Cross-model analysis 
+demonstrates complementary strengths between discriminative and generative approaches.
+
+## System Overview
+
+Chest X-ray
+      ↓
+   CNN Classifier  → Prediction (Normal / Pneumonia)
+      ↓
+Misclassified Samples
+      ↓
+Visual Language Model (VLM)
+      ↓
+Generated Medical Report
+
+
 ## AI Medical Imaging, Visual Language Models, and Semantic Retrieval
 
 This repository contains my submission for the 7-Day Postdoctoral Technical Challenge at AlfaisalX: Cognitive Robotics and Autonomous Agents.
