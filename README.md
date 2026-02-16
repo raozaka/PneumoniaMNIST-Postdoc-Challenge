@@ -42,3 +42,10 @@ The project implements an end-to-end AI prototype system using PneumoniaMNIST (M
 - 3 prompting strategies evaluated
 - CNN misclassified cases analyzed
 - Qualitative alignment assessment performed
+
+## Future Work
+
+- Higher-resolution X-ray datasets
+- Fine-tuning medical-specific VLMs
+- Automated hallucination detection
+- Integration with semantic retrieval systems
